@@ -10,7 +10,7 @@
 
 struct thread_args {
   char** board; // Board for the thread
-  long move;     // The current move number
+  long move;    // The current move number
   int r;        // Row location
   int c;        // Column location
 };
